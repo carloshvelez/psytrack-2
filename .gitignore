@@ -1,0 +1,13 @@
+#Generados por django
+.vscode/
+db.sqlite3
+psytrack/__pycache__
+psicologo/__pycache__
+
+
+#entorno virtual:
+venv/
+
+
+#Testeo de api rest
+test.rest
