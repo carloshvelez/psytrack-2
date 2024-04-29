@@ -26,6 +26,6 @@ This application distinguishes itself due to the following reasons:
 
 
 ## How to Run the Application:
-To run the application, users simply need to register and log in. The initial step involves adding users. Once users are added, the application provides access to statistics, user searches, session addition, user editing, and session scheduling, as described in the initial portion of this documentation.
+To run the application, users simply need visit [this link](https://carloshvelez.pythonanywhere.com/), register and log in. The initial step involves adding users. Once users are added, the application provides access to statistics, user searches, session addition, user editing, and session scheduling, as described in the initial portion of this documentation.
 
 ## WARNING: This application was developed solely for learning purposes. Under no circumstances should it be used to record actual patient data, as there is no assurance of compliance with current legal regulations regarding health procedure recording and information security.
